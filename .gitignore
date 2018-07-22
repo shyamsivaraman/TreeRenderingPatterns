@@ -35,3 +35,6 @@ proguard/
 .gradle/
 build/
 bin/
+
+#Maven build files
+target/
